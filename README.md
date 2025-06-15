@@ -14,3 +14,10 @@ This is a simple Python project that analyzes housing data from a CSV file on Go
   3. Average house price by parking spaces
 - Compares prices between two groups based on area and preferred location
 
+  ---
+
+  #View code
+
+  Click 2nd file with .ipynb extension to view code.
+  Click 'open in colab' to run the code yourself
+
