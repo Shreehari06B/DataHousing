@@ -16,7 +16,7 @@ This is a simple Python project that analyzes housing data from a CSV file on Go
 
   ---
 
-  #View code
+  # View code
 
   Click 2nd file with .ipynb extension to view code.
   Click 'open in colab' to run the code yourself
